@@ -1,0 +1,67 @@
+/*  EStilos gerais  para a página confiavel :) */
+body{
+    background-color: #39024a; /* Cor de fundo da página */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; /* Define a fonte da página */
+    margin: 0; /* remove a margem padrão */
+    padding: 20px; /* Adiciona um espaço interno (padding) na página */
+ 
+}
+
+/* Estilos para o contâiner principal*/
+.container{
+    background-color: #13eb0f; /* define a cor do fundo do contâiner*/
+    border-radius: 20px;
+    /* cantos arredondados */
+    padding: 10px;
+    /* Define a largura máxima do conteiner */
+    max-width: 400px;
+    /* define a largura máxima do conteiner */
+    margin: auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.9);
+
+
+}
+/* Estilos para o título */
+h1{
+    text-align: center;
+     /*centraliza o título */
+     color: rgb(46, 5, 68);
+     /* Cor para o título */
+
+}
+/* Estilo para os inputs e botões */
+input{
+    width: 45%;
+    /* faz o campo de entrada ocupar toda a largura disponível */
+    padding: 15px;
+    /* Espaço interno ao redor do texto no campo */
+    margin: 5px 0;
+    /* Adiciona um espaço de 5px acima e abaixo do campo */
+     border-radius: 5px;
+    /* Arredondar os cantos do campo rpzd*/
+    border: 5px solid #480363;
+    /* Borda*/
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
